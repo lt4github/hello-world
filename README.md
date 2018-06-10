@@ -1,4 +1,2 @@
-# hello-world
-a hello world Repository off GitHub
+# Initial page
 
-this is my first learning course on GitHub.
