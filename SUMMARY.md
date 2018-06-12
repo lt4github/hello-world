@@ -31,3 +31,6 @@
   * [Clean with Spreadsheets](clean/spreadsheets/README.md)
   * [Clean with Open Refine](clean/open-refine/README.md)
   * [Relabel with CTNamecleaner](clean/ctnamecleaner/README.md)   
+    ** [About This GitBook](gitbook/README.md)
+    ** [My GitBook Workflow](gitbook/workflow.md)
+    ** [Structure, Plugins, Syntax](gitbook/structure.md)
